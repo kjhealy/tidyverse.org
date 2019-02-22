@@ -26,6 +26,8 @@ We highly recommend pairing R4DS with the [RStudio cheatsheets](https://www.rstu
 
 * [Data Manipulation in R](http://geni.us/datamanipulationir) by Steph Locke. Covers data manipulation in a tidyverse way.
 
+* [Data Visualization: A Practical Introduction](https://amzn.to/2vfAixM) by Kieran Healy. Learn the principles and practice of data visualization using ggplot and other tidyverse tools. 
+
 ## DataCamp
 
 DataCamp is an excellent way to improve your R skills, including the tidyverse. A great place to start is the [Tidyverse Fundamentals with R](https://www.datacamp.com/tracks/tidyverse-fundamentals) skill track that walks users through many of the packages in the tidyverse in a sequence of five courses. 
